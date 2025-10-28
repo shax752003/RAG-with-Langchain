@@ -3,6 +3,7 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+<<<<<<< HEAD
 langchain
 langchain-core
 langchain-community
@@ -17,3 +18,9 @@ python-dotenv
 typesense
 langchain_openai
 langgraph
+=======
+sentence-transformers
+faiss-cpu
+chromadb
+scikit-learn
+>>>>>>> 9dcc5bb (Day 2: Added EmbeddingManager class with embedding generation using SentenceTransformer)
